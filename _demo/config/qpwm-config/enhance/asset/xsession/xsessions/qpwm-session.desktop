@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Be Qpwm
+Comment=Be Qpwm
+Exec=/usr/share/qpwm/xsessions/qpwm-session
+Icon=dwm
+Type=XSession
